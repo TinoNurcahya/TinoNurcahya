@@ -19,7 +19,7 @@ height="150" alt="stats graph" />
 
 ##### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=TinoNurcahya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=TinoNurcahya&theme=tokyo-night&no-frame=false&no-bg=true&margin-w=4)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TinoNurcahya&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 
