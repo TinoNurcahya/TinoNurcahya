@@ -30,4 +30,5 @@ height="150" alt="stats graph" />
 </picture>
 
 #### ✍️ Quote
-![Custom Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Jangan%20takut%20gagal.%20Takutlah%20jika%20kamu%20tidak%20mencoba.)
+![Custom Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=who%20cares%20if%20we%20don't%20see%20the%20sunshine%20again,%20I%20want%20you%20more%20than%20any%20blue%20sky&author=Tino%20Nurcahya)
+
