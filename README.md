@@ -21,7 +21,7 @@ height="150" alt="stats graph" />
 
 ![](https://github-profile-trophy.vercel.app/?username=TinoNurcahya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TinoNurcahya&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TinoNurcahya&radius=16&theme=codeSTACKr&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TinoNurcahya/TinoNurcahya/output/pacman-contribution-graph-dark.svg">
