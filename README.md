@@ -28,3 +28,6 @@ height="150" alt="stats graph" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TinoNurcahya/TinoNurcahya/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TinoNurcahya/TinoNurcahya/output/pacman-contribution-graph.svg">
 </picture>
+
+#### ✍️ Quote
+![Custom Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Jangan%20takut%20gagal.%20Takutlah%20jika%20kamu%20tidak%20mencoba.)
