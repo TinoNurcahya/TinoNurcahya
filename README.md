@@ -9,11 +9,11 @@
 ##### 📊 GitHub Stats:
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TinoNurcahya&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)" height="150" alt="stats graph" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=TinoNurcahya&theme=codeSTACKr&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinoNurcahya&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=TinoNurcahya&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)" height="150" alt="stats graph" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=TinoNurcahya&theme=codeSTACKr&hide_border=true" 
+height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinoNurcahya&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
-
 
 ##### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TinoNurcahya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
