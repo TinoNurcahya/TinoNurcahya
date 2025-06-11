@@ -31,5 +31,5 @@ height="150" alt="stats graph" />
 
 #### ✍️ Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true&quote=who%20cares%20if%20we%20don't%20see%20the%20sunshine%20again,%20I%20want%20you%20more%20than%20any%20blue%20sky&author=Tino%20Nurcahya" alt="Custom Quote" style="style= width: 100%;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&quote=who%20cares%20if%20we%20don't%20see%20the%20sunshine%20again,%20I%20want%20you%20more%20than%20any%20blue%20sky&author=Tino%20Nurcahya" alt="Custom Quote" style="style= width: 100%;" />
 </div>
