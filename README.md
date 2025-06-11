@@ -1,10 +1,10 @@
 ## Hello World! I'am Tino Nurcahya👋
 
-#### 🎓 Informatics Engineering student  
-#### 💻 Passionate about web & software development  
-#### 📍 Based in Indonesia  
-#### 🚀 Currently learning PHP & JavaScript  
-#### 🌱 Open for collaboration
+🎓 Informatics Engineering student  
+💻 Passionate about web & software development  
+📍 Based in Indonesia  
+🚀 Currently learning PHP & JavaScript  
+🌱 Open for collaboration
 <br>
 
 ##### 🌐 Socials:
