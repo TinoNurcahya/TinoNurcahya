@@ -1,5 +1,12 @@
 ## Hello World! I'am Tino Nurcahya👋
 
+#### 🎓 Informatics Engineering student  
+#### 💻 Passionate about web & software development  
+#### 📍 Based in Indonesia  
+#### 🚀 Currently learning PHP & JavaScript  
+#### 🌱 Open for collaboration
+<br>
+
 ##### 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tino_nrchy)
