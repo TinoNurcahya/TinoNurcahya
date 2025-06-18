@@ -18,10 +18,10 @@
 ##### 📊 GitHub Stats:
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TinoNurcahya&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)" height="150" alt="stats graph" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=TinoNurcahya&theme=codeSTACKr&hide_border=false" 
+<img src="https://github-readme-stats.vercel.app/api?username=TinoNurcahya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)" height="150" alt="stats graph" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=TinoNurcahya&theme=tokyonight&hide_border=false" 
 height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinoNurcahya&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinoNurcahya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
 
 ##### 🏆 GitHub Trophies
@@ -38,5 +38,5 @@ height="150" alt="stats graph" />
 
 #### ✍️ Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&quote=who%20cares%20if%20we%20don't%20see%20the%20sunshine%20again,%20I%20want%20you%20more%20than%20any%20blue%20sky&author=a%20child%20who%20wants%20a%20blue%20sky" alt="Custom Quote" style="style= width: 100%;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=who%20cares%20if%20we%20don't%20see%20the%20sunshine%20again,%20I%20want%20you%20more%20than%20any%20blue%20sky&author=a%20child%20who%20wants%20a%20blue%20sky" alt="Custom Quote" style="style= width: 100%;" />
 </div>
