@@ -60,7 +60,7 @@ height="150" alt="stats graph" />
 
 ### 🎧 Recently Played on Spotify
 <div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="[https://github.com/TinoNurcahya/]">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u5mivcin6tgrethuyy4eay36iu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
   </a>
 </div>
