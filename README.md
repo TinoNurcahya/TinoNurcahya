@@ -57,3 +57,10 @@ height="150" alt="stats graph" />
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=who%20cares%20if%20we%20don't%20see%20the%20sunshine%20again,%20I%20want%20you%20more%20than%20any%20blue%20sky&author=Rain" alt="Custom Quote" style="style= width: 100%;" />
 </div>
+
+### 🎧 Recently Played on Spotify
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u5mivcin6tgrethuyy4eay36iu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
+  </a>
+</div>
