@@ -3,7 +3,7 @@
 🎓 Informatics Engineering student  
 💻 Passionate about web & software development  
 📍 Based in Indonesia  
-🚀 Currently learning PHP, JavaScript & the sign language of the heart that never speaks  
+🚀 Currently learning PHP, NodeJS, ReactJS & the sign language of the heart that never speaks  
 🌱 Open for collaboration
 <br>
 
