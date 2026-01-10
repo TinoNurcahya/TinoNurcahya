@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student;Web+%26+Software+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student;Software+Engineer;Web+Developer;" />
 </p>
 
 <p align="center">
@@ -65,6 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="40"/>
 </p>
 
 ---
