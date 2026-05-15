@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student;Software+Engineer;Web+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student;Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;" />
 </p>
 
 <p align="center">
@@ -16,12 +16,11 @@
 </picture> About Me
 
 - 🎓 Informatics Engineering Student  
-- 💻 Passionate about **Web & Software Development**  
-- 🌱 Currently learning **PHP & MERN (MongoDB, Express, React, Node.js)**  
+- 💻 Building full-stack web apps with **Laravel, React & TypeScript**  
+- 🤖 Exploring **AI-driven features** — recommendation systems, chatbots & personalization  
+- ☁️ Experienced in **Docker & Google Cloud Run** deployment  
 - 🤝 Open for **collaboration & open-source projects**  
 - 📍 Based in **Indonesia**  
-
-> *Learning the sign language of a heart that never speaks.*
 
 
 #### 🌐 Connect with Me
@@ -29,6 +28,9 @@
 <p align="center">
   <a href="https://instagram.com/Tino_nrchy">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:tinonurcahya.ti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/TinoNurcahya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -39,45 +41,50 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages & Frameworks
+#### 🎨 Frontend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"/>
 </p>
+
+#### ⚙️ Backend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="40"/>
 </p>
 
-#### 🎨 UI / Styling
+#### 🗄️ Database & Cloud
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
 </p>
 
-#### 🧰 Tools & Others
+#### 🧰 Tools & Design
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40"/>
+</p>
+
+#### 📱 Mobile
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
 </p>
 
 ---
@@ -126,4 +133,10 @@ height="150" alt="stats graph" />
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u5mivcin6tgrethuyy4eay36iu&cover_image=true&theme=novatorem&show_offline=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TinoNurcahya&label=Profile%20Views&color=70A5FD&style=flat" alt="Profile Views" />
 </p>
