@@ -92,9 +92,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TinoNurcahya&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&v=1" height="150" alt="stats graph" />
+  <img src="./profile/stats.svg" height="150" alt="stats graph" />
   <img src="./profile/streak.svg" height="150" alt="streak stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinoNurcahya&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&v=1" height="150" alt="languages graph" />
+  <img src="./profile/langs.svg" height="150" alt="languages graph" />
 </div>
 
 <br>
