@@ -101,7 +101,7 @@ height="150" alt="stats graph" />
 <br>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TinoNurcahya&theme=tokyo-night&no-frame=false&no-bg=true&margin-w=4)
+![](./profile/trophy.svg)
 
 
 ---
@@ -129,7 +129,9 @@ height="150" alt="stats graph" />
 #### 🎧 Currently Playing on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u5mivcin6tgrethuyy4eay36iu&cover_image=true&theme=novatorem&show_offline=true" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u5mivcin6tgrethuyy4eay36iu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" />
+  </a>
 </p>
 
 ---
