@@ -92,9 +92,9 @@
 
 
 <div align="center">
-  <img src="./profile/stats.svg" height="150" alt="stats graph" />
-  <img src="./profile/streak.svg" height="150" alt="streak stats graph" />
-  <img src="./profile/langs.svg" height="150" alt="languages graph" />
+  <img src="./profile/stats.svg?v=1" height="150" alt="stats graph" />
+  <img src="./profile/streak.svg?v=1" height="150" alt="streak stats graph" />
+  <img src="./profile/langs.svg?v=1" height="150" alt="languages graph" />
 </div>
 
 <br>
