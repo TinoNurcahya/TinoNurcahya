@@ -1,15 +1,15 @@
-name: Generate GitHub Trophies
+name: Generate Profile Stats and Trophies
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily
+    - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch:    # Allows manual trigger
   push:
     branches:
       - main
 
 jobs:
-  generate-trophy:
+  generate-stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -17,17 +17,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate trophy SVG
+      - name: Generate GitHub Trophies SVG
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
           options: 'username=${{ github.repository_owner }}&theme=tokyonight&column=6&margin-w=15&margin-h=15'
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push trophy SVG
+      - name: Generate GitHub Streak Stats SVG
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          theme: tokyonight
+          hide_border: false
+          path: profile/streak.svg
+
+      - name: Commit and push generated SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/trophy.svg
-          git commit -m "chore: update github trophies SVG" || exit 0
+          git add profile/*.svg
+          git commit -m "chore: update github trophies and streak stats SVGs [skip ci]" || exit 0
           git push
